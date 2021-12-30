@@ -2,8 +2,8 @@
 
 # About myself
 I just started my way of learning programming one month ago. During this time I finished several online courses on html and css, such as 
-* freekodekamp.org, 
-* stepic.org, 
+* freekodekamp.org 
+* stepic.org
 * ru.code-basix.com 
 and now I am trying to join the course of Java Script for beginners from the Rolling Scopes School.
 
@@ -14,7 +14,7 @@ contacts:
 
 
 
-sample of code from codewars.com:
+sample of code from [codewars](https://codewars.com):
 
 ```
 function multiply (a, b){
