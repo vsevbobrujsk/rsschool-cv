@@ -1,5 +1,47 @@
+
 body {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    background-color: #FFE4C4;
+    
+  }
+  .navi {
+    display: grid;
+    justify-content: flex-end;
+    align-items: center;
+    list-style: none;
+  }
+  div {
+    padding: 10px;
+    border: 1px solid;
+  }
+  .box {
+    display: flex;
+    position: relative;
+    flex: auto;
+  }
+  .section {
+    display: flex;
+    max-width: 600px;
+  }
+  #box2 {
+  display: flex;
+    
+  }
+  #box3 {
+    position: relative;
+    left: 300px;
+    top: 1px;
+    display: flex;
+    
+  }
+  #box4 {
+    position: relative;
+    
+  }
+  @media (max-width: 768px) {
+    body {
+      width: 100%;
+    }
   }
