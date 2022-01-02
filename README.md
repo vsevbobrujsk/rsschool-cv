@@ -1,1 +1,1 @@
-[vsevbobrujsk sv](https://github.com/vsevbobrujsk/rsschool-cv/blob/gh-pages/cv.md)
+https://vsevbobrujsk.github.io/rsschool-cv/
